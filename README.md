@@ -1,4 +1,4 @@
-# CreditWise – Loan Approval Prediction
+# CreditWise AI – Data-Driven Loan Approval Prediction
 
 This is a machine learning project where I explored applicant information and trained classification models to predict whether a loan would be approved.
 
